@@ -115,7 +115,7 @@ something does actually change in the world or in programming like if somehow AD
 Also i do have a love for some cool chemistry & physics stuff but Ive never pushed to learn it .. even at a high school level only recently ive found an intrest in it..
 especially to make stuff like jet engines etc... So ill probably be reaidng some of those textbooks
 
-Now realsiticly this plan will take ~180 years or something to do.. but i don't have time for that sooo
+Now realistically this plan will take ~180 years or something to do.. but i don't have time for that sooo
 im thinking of trying to push this to an unrealistic 2-5 years soo.. thats going to be fun.
 anyways. i want to work at minium 15 - 30 hours a week on this hopefully that will help.. kind of..
   
