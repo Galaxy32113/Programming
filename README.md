@@ -121,7 +121,7 @@ anyways. i want to work at minium 15 - 30 hours a week on this hopefully that wi
   
 
 
-
+IGNOREEE MY SPELLING IM SORRYYYYY :< 
 
 
 
