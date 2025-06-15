@@ -10,7 +10,7 @@ Okay so after doing some research ill be working through these books and attempt
 >> - Understanding and Using Pointers by Richard Reese
 >> - Modern C by Jens Gustedt
 
-> ### Mathamatics
+> ### Math books
 >> - will need to add more here
 >> - Discrete Mathematics with Applications by Susanna S. Epp
 >> - Concrete mathamatics - A foundation for Computer science by Graham, knuth and Patashnik
