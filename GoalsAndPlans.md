@@ -3,7 +3,10 @@
 Hi, I wanted to put this out here because I need to keep this up somewhere with more responsability then just hoping 
 that i will continue learning and not get stuck playing video games (can confirm.. um.. the hope failed me)
 
-My main goals here is to learn a set of lanagauges, im measuring my skills within the lanugage as follows:
+*Small note:* *The plan is meant to be followed top down meaning C first then ASM x86 and then Rust etc*
+
+
+My main goals here is to learn a set of languages and how does computers work etc... im measuring my skills within the lanugage as follows:
 
 > ## Skill Measurment
 > - ### Okay 
